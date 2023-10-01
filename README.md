@@ -3,7 +3,7 @@ Hi, I'm Oskar, a 14 y/o student at JFKS Berlin 🇩🇪
 - Responsible for push notifications 🔔
 - Currently working on routines screen ⏰
 #### 3D-Printer Club
-- Leadership of the schools only student-run club 👨‍💻
+- Leading the schools only student-run club 👨‍💻
 - Currently making the schools website 💻
 <!---
 SomeKiwi/SomeKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
